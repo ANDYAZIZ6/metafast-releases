@@ -6,8 +6,6 @@
 
 **MetaFast** adalah aplikasi desktop berbasis AI yang dirancang khusus untuk kontributor Adobe Stock guna mengotomatisasi pembuatan metadata (judul, deskripsi, dan keyword) untuk foto, vektor, dan video secara cepat dan akurat.
 
-![MetaFast Screenshot](https://via.placeholder.com/800x400?text=MetaFast+Screenshot)
-
 ## ✨ Fitur Utama
 
 ### 🤖 AI-Powered Metadata Generation
@@ -32,7 +30,6 @@
 - Kategori otomatis berdasarkan konten gambar
 
 ### 🔒 Privacy & Security
-- **100% Offline Processing** (kecuali API AI)
 - File tidak diupload ke server pihak ketiga
 - API key disimpan lokal terenkripsi
 
