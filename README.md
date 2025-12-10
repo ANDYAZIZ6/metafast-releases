@@ -312,10 +312,6 @@ https://github.com/ANDYAZIZ6/metafast-releases/releases
 
 ### Get Help
 - 📧 **Email**: andydandelion6@gmail.com
-
-### Feature Requests
-Punya ide fitur baru? Submit di [GitHub Discussions](https://github.com/ANDYAZIZ6/metafast-releases/discussions)
-
 ---
 
 ## 📜 License
