@@ -131,7 +131,7 @@ Export format:
 - **Rollback Support**: Kembalikan ke versi sebelumnya jika perlu
 
 ### 🖱️ Windows Integration
-- **Context Menu**: Right-click file/folder → "Generate with MetaFast"
+- **Context Menu**: Right-click file → "Generate with MetaFast"
 - **File Association**: Double-click file untuk buka di MetaFast
 - **System Tray**: Minimize to tray untuk background processing
 
