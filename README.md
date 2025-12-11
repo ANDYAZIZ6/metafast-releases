@@ -10,11 +10,10 @@
 ## ✨ Fitur Lengkap
 
 ### 🤖 AI-Powered Metadata Generation
-- **Multiple AI Providers**: Google Gemini, OpenAI, dan Claude (Anthropic)
+- **Multiple AI Providers**: Google Gemini, OpenAI
 - **10+ AI Models**: 
-  - Gemini: Flash 1.5, Flash 2.0, Pro 1.5
-  - OpenAI: GPT-4, GPT-4 Turbo, GPT-4o, GPT-4o Mini
-  - Claude: Opus, Sonnet, Haiku
+  - Gemini: gemini-3-pro-preview, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gemini-2.0-flash, gemini-2.0-flash-lite
+  - OpenAI: gpt-5, gpt-5-mini, gpt-5-nano, gpt-4.1, gpt-4.1-mini, gpt-4.1-nano, gpt-4o, gpt-4o-mini
 - **Multi-API Key Rotation**: Rotasi otomatis untuk bypass rate limits
 - **Vision Support**: Analisis gambar langsung (tidak perlu upload ke cloud)
 - **Smart Generation**:
@@ -24,8 +23,7 @@
   - Kategori otomatis (Adobe Stock & Shutterstock)
 
 ### 🚀 Performance & Speed
-- **30x Parallel Processing**: Process 30 gambar secara simultan
-- **10x Faster Embedding**: Tulis metadata 10x lebih cepat dengan 30 concurrent ExifTool processes
+- **Parallel Processing**: Process gambar secara simultan
 - **Smart Caching**: Thumbnail dan metadata di-cache untuk performa optimal
 - **Batch Operations**: Proses ratusan file sekaligus dalam hitungan menit
 
@@ -37,10 +35,10 @@ Support untuk **6 platform stock photography**:
 - ✅ **Vecteezy**
 - ✅ **Depositphotos**
 - ✅ **123RF**
+- ✅ **Canva**
 
 Export format:
 - **CSV Files**: Platform-specific CSV ready untuk upload
-- **XMP Embedding**: Tulis metadata langsung ke file (IPTC/XMP standard)
 - **Clipboard Copy**: Salin keywords untuk paste manual
 - **Auto XMP Cleanup**: Sidecar .xmp files dihapus otomatis setelah embed
 
@@ -48,12 +46,10 @@ Export format:
 - **Brand & IP Detection**: Deteksi 2,500+ trademarked terms, logos, dan brand names
   - Social media logos (Instagram, Facebook, TikTok, YouTube, etc.)
   - Tech brands (Apple, Google, Microsoft, Samsung, etc.)
-  - AI brands 2025 (ChatGPT, Midjourney, Claude, Perplexity, etc.)
   - Celebrities, politicians, athletes
   - Sports events (Olympics, World Cup, Super Bowl, etc.)
   - Entertainment awards (Grammy, Oscar, Emmy, etc.)
 - **Smart Filtering**: Auto-replace atau remove problematic terms
-- **False Positive Prevention**: Safe words tidak diblok ("zoom lens", "princess cut diamond", "king size bed")
 - **Content Warning System**: Visual indicator untuk file bermasalah
 - **Batch Delete**: Hapus semua file bermasalah dalam satu klik
 
@@ -80,7 +76,6 @@ Export format:
 **File Formats**:
 - Images: JPG, JPEG, PNG, TIFF, WEBP
 - Vectors: EPS, AI, SVG
-- Documents: PSD, INDD
 - Videos: MP4, MOV, AVI, MKV
 
 **Thumbnail Generation**:
@@ -93,8 +88,6 @@ Export format:
 - **Bilingual Interface**: 
   - ID Bahasa Indonesia
   - US English
-- **Language Toggle**: Switch bahasa dengan satu klik
-- **Bilingual Logging**: Semua log message dalam 2 bahasa
 
 ### 🎨 User Interface
 - **Modern Design**: Clean, intuitive, dan mudah digunakan
@@ -319,7 +312,7 @@ MetaFast is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Credits
+## Credits
 
 **Built with:**
 - [Tauri](https://tauri.app/) - Desktop app framework
@@ -339,11 +332,9 @@ MetaFast is licensed under the [MIT License](LICENSE).
 
 ## 📊 Stats & Achievements
 
-- **10,000+** Downloads
-- **500,000+** Files Processed
+- **1000+** Downloads
 - **99.5%** Metadata Accuracy
 - **90%** Time Saved vs Manual Input
-- **2,500+** Branded Terms Detected
 
 ---
 
@@ -372,5 +363,3 @@ Jika MetaFast membantu workflow Anda, consider:
 ---
 
 **Made with ❤️ by Stock Photography Contributors, for Contributors**
-
-*Last updated: December 10, 2025*
