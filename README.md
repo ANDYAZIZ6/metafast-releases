@@ -291,12 +291,7 @@ https://github.com/ANDYAZIZ6/metafast-releases/releases
 - Check file format supported
 - Verify file tidak corrupt
 - Try regenerate individual field
-
-**"XMP Embedding Failed"**
-- Check file permissions (read/write)
-- Close file di aplikasi lain (Photoshop, etc)
-- Try manual export to CSV
-
+  
 ---
 
 ## 🤝 Support & Community
