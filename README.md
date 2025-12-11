@@ -1,8 +1,6 @@
 # MetaFast - AI-Powered Stock Photography Metadata Automation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/ANDYAZIZ6/metafast-releases)
-[![Download](https://img.shields.io/github/downloads/ANDYAZIZ6/metafast-releases/total)](https://github.com/ANDYAZIZ6/metafast-releases/releases/latest)
 [![Version](https://img.shields.io/github/v/release/ANDYAZIZ6/metafast-releases)](https://github.com/ANDYAZIZ6/metafast-releases/releases/latest)
 
 **MetaFast** adalah aplikasi desktop berbasis AI yang dirancang khusus untuk kontributor stock photography guna mengotomatisasi pembuatan metadata (judul, deskripsi, dan keyword) untuk foto, vektor, dan video secara cepat, akurat, dan aman.
