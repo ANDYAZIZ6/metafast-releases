@@ -323,6 +323,7 @@ MetaFast is licensed under the [MIT License](LICENSE).
 **AI Providers:**
 - [Google Gemini API](https://ai.google.dev/)
 - [OpenAI API](https://platform.openai.com/)
+- [Groq Llama 4] (https://console.groq.com/)
 
 ---
 
